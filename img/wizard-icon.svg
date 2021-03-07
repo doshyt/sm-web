@@ -8,11 +8,11 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="79.999992"
-   inkscape:export-xdpi="79.999992"
-   inkscape:export-filename="C:\dev\sm-web\img\image855.png"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="wizard.svg"
+   inkscape:export-ydpi="24.15"
+   inkscape:export-xdpi="24.15"
+   inkscape:export-filename="C:\dev\sm-web\img\icon.png"
+   sodipodi:docname="wizard-icon.svg"
    viewBox="0 0 106 105"
    height="105"
    width="106"
@@ -88,6 +88,7 @@
      inkscape:label="Image"
      inkscape:groupmode="layer">
     <image
+       transform="matrix(0.25157232,0,0,0.25157232,38.814232,46.870368)"
        inkscape:export-ydpi="153.7"
        inkscape:export-xdpi="153.7"
        style="filter:url(#filter1822)"
