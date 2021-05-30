@@ -25,6 +25,10 @@ a:hover {
   color: rgb(0, 79, 250);
 }
 
+.btn {
+  outline: none !important;
+}
+
 /* Custom default button */
 .btn-default,
 .btn-default:hover,
